@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/bcpkix-jdk15to18.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/bcprov-jdk15to18.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/bcutil-jdk15to18.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.commonservices.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.headers.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jakarta.client.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.pcf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.tools.ras.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mq.traceControl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/jakarta.jms-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/jms.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/lib/providerutil.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/aggressive.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/dataaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmcertpathfw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmcertpathprovider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmcfw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmjcefw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmjgssfw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmjgssprovider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmjssefw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmjsseprovider2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmorb.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmorbapi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmpkcs.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/ibmsaslfw.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/math.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/se-service.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/xml.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/MQ/java/jre/lib/xmldsigfw.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
